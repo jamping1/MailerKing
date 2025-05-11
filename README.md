@@ -21,5 +21,5 @@ MailerKing 25.2.16.0 — это профессиональное програм�
 Программа упакована в zip файл
 
 Обучение по программе не предоставляю
-![Alt text](https://i.postimg.cc/7Ljk340z/1.png)
-![Alt text](https://i.postimg.cc/3rXTvPRy/2.png)
+![Alt text](https://i.postimg.cc/7Ljk340z/1.png) ![Alt text](https://i.postimg.cc/3rXTvPRy/2.png)
+
